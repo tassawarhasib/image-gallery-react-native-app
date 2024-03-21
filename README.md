@@ -1,7 +1,3 @@
-Here's a template for a README.md file for your React Native image gallery project:
-
----
-
 # React Native Image Gallery
 
 This is a mobile application built with React Native that allows users to browse and view images from Flickr's recent photos feed.
