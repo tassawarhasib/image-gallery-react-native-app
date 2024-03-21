@@ -15,7 +15,7 @@ This is a mobile application built with React Native that allows users to browse
 
 ## Screenshots
 
-Include screenshots or GIFs of your app in action here.
+
 
 ## Getting Started
 
@@ -31,7 +31,7 @@ Include screenshots or GIFs of your app in action here.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/tassawarhasib/image-gallery-react-native-app.git
    ```
 
 2. Navigate to the project directory:
@@ -73,7 +73,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 
 - Thank you to Flickr for providing the API used in this project.
-
----
-
-Feel free to customize this README template to suit your project's specific details and requirements. You can also include sections like "Dependencies," "Testing," "Troubleshooting," or any other relevant information.
